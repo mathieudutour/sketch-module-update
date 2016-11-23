@@ -1,0 +1,26 @@
+{
+  "name": "sketch-module-update",
+  "version": "0.1.0",
+  "description": "A sketch module to check if an plugin's update is available",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathieudutour/sketch-module-update.git"
+  },
+  "keywords": [
+    "sketch",
+    "module",
+    "update"
+  ],
+  "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathieudutour/sketch-module-update/issues"
+  },
+  "homepage": "https://github.com/mathieudutour/sketch-module-update#readme"
+}
