@@ -1,7 +1,7 @@
 # sketch-module-update
 
-[![Downloads per month](https://img.shields.io/npm/dm/sketch-module-update.svg?maxAge=2592000)][https://www.npmjs.com/package/sketch-module-update/]
-[![Latest version](https://img.shields.io/npm/v/sketch-module-update.svg?maxAge=3600)][https://www.npmjs.com/package/sketch-module-update/]
+[![Downloads per month](https://img.shields.io/npm/dm/sketch-module-update.svg?maxAge=2592000)](https://www.npmjs.com/package/sketch-module-update/)
+[![Latest version](https://img.shields.io/npm/v/sketch-module-update.svg?maxAge=3600)](https://www.npmjs.com/package/sketch-module-update/)
 
 A sketch module to check if an plugin's update is available on Github and prompt the user to download it.
 
