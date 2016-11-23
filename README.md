@@ -41,6 +41,7 @@ manifest.json:
 ## API Documentation
 
 Options available:
+
 name                         | default
 :----------------------------|:---------------------------------------
 timeBetweenChecks            | `24 * 60 * 60 * 1000`
