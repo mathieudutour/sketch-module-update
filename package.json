@@ -1,6 +1,6 @@
 {
   "name": "sketch-module-update",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A sketch module to check if an plugin's update is available",
   "main": "lib/index.js",
   "dependencies": {},
