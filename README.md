@@ -1,3 +1,7 @@
+# DO NOT USE THIS! Use the update mechanism provided by Sketch!
+
+---
+
 # sketch-module-update
 
 [![Downloads per month](https://img.shields.io/npm/dm/sketch-module-update.svg?maxAge=2592000)](https://www.npmjs.com/package/sketch-module-update/)
